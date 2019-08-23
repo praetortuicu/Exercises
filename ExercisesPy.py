@@ -27,3 +27,4 @@ while maxGuesses >= 0:
     if failed == 1:             
         print("You LOSE!")
         break
+    break
